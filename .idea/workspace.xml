@@ -1,44 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c496db08-6b8a-44ac-bb54-c6f561dd5e24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter11/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter11/Lcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter11/MultiD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter11/OleBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter11/ReturnLowestIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter11/SumAndValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter14/example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter14/example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/FilesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/FilesExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/json/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/json/deserialization/CatDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter15/json/serialization/CatSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter16/CollectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/problemSolving/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Level2Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/problemSolving/level2Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/AppUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/regnos/chapter11/LcmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/regnos/chapter15/json/deserialization/CatDeserializerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/regnos/chapter15/json/serialization/CatSerializerTest.java" afterDir="false" />
+    <list default="true" id="c496db08-6b8a-44ac-bb54-c6f561dd5e24" name="Changes" comment="assessment">
+      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/IntConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/stream/CollectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/stream/StreamSampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/regnos/chapter17/stream/StreamSampleOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter16/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter16/CollectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter16/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter16/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/CarMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/CarMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiPredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiPredicateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BinaryOperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/ConsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/FunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/FunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/PredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/PredicateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/SupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/SupplierSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/UnaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/UnaryOperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/MergeAndSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/MergeAndSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Question6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/level2Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/level2Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/regnos/problemSolving/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/regnos/problemSolving/TaskTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +72,7 @@
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Tinuade/Downloads/jar_files (1)/jackson-datatype-jsr310-2.15.0-rc1.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -94,18 +87,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="regnos.chapter17.stream" />
+      <recent name="regnos.problemSolving" />
       <recent name="regnos.chapter11" />
       <recent name="regnos.chapter15.json.deserialization" />
       <recent name="regnos.chapter15.json.serialization" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Level2Q3">
-    <configuration name="CollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regnos.chapter16.CollectionExample" />
+  <component name="RunManager">
+    <configuration name="IntConsumerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regnos.chapter17.functionalInterface.consumerSample.IntConsumerSample" />
       <module name="java_classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="regnos.chapter16.*" />
+          <option name="PATTERN" value="regnos.chapter17.functionalInterface.consumerSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regnos.problemSolving.HelloWorld" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regnos.chapter17.Main" />
+      <module name="java_classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regnos.chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regnos.problemSolving.Task" />
       <module name="java_classes" />
       <extension name="coverage">
         <pattern>
@@ -126,21 +134,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level2Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regnos.problemSolving.Level2Q3" />
+    <configuration name="StreamSampleOneTest.testThatMapReturnsElementOfAListMultiplyingEachElementByTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="regnos.problemSolving.*" />
+          <option name="PATTERN" value="regnos.chapter17.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="regnos.chapter17.stream" />
+      <option name="MAIN_CLASS_NAME" value="regnos.chapter17.stream.StreamSampleOneTest" />
+      <option name="METHOD_NAME" value="testThatMapReturnsElementOfAListMultiplyingEachElementByTwo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regnos.problemSolving.Question4" />
+    <configuration name="TaskTest.task" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_classes" />
       <extension name="coverage">
         <pattern>
@@ -148,37 +158,28 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regnos.problemSolving.Question6" />
-      <module name="java_classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="regnos.problemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="regnos.problemSolving" />
+      <option name="MAIN_CLASS_NAME" value="regnos.problemSolving.TaskTest" />
+      <option name="METHOD_NAME" value="task" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Level2Q3" />
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.Question4" />
-      <item itemvalue="Application.Question6" />
-      <item itemvalue="Application.CollectionExample" />
+      <item itemvalue="Application.IntConsumerSample" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Task" />
+      <item itemvalue="JUnit.StreamSampleOneTest.testThatMapReturnsElementOfAListMultiplyingEachElementByTwo" />
+      <item itemvalue="JUnit.TaskTest.task" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Level2Q3" />
-        <item itemvalue="Application.Question6" />
-        <item itemvalue="Application.Question4" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.CollectionExample" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="JUnit.StreamSampleOneTest.testThatMapReturnsElementOfAListMultiplyingEachElementByTwo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IntConsumerSample" />
+        <item itemvalue="JUnit.TaskTest.task" />
       </list>
     </recent_temporary>
   </component>
@@ -205,8 +206,27 @@
       <workItem from="1680679118532" duration="4814000" />
       <workItem from="1681297858121" duration="13111000" />
       <workItem from="1681387601685" duration="7596000" />
-      <workItem from="1681475241426" duration="2225000" />
+      <workItem from="1681475241426" duration="4276000" />
+      <workItem from="1681492391627" duration="7596000" />
+      <workItem from="1681980466861" duration="14973000" />
+      <workItem from="1682014765356" duration="656000" />
+      <workItem from="1682361823700" duration="26000" />
+      <workItem from="1682512422821" duration="51825000" />
+      <workItem from="1683048497796" duration="20140000" />
+      <workItem from="1683224728674" duration="8360000" />
+      <workItem from="1683237622232" duration="2298000" />
+      <workItem from="1683310867461" duration="2449000" />
+      <workItem from="1683366027258" duration="3990000" />
+      <workItem from="1683572161397" duration="16263000" />
     </task>
+    <task id="LOCAL-00001" summary="assessment">
+      <created>1681479146500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681479146500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,5 +254,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assessment" />
+    <option name="LAST_COMMIT_MESSAGE" value="assessment" />
   </component>
 </project>

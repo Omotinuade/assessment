@@ -1,10 +1,18 @@
 package regnos.chapter17.functionalInterface.consumerSample;
 
-public class Consumer {
+import java.util.function.BiConsumer;
+import java.util.function.Consumer;
+
+public class ConsumerSample {
     public static void main(String[] args) {
-        java.util.function.Consumer<String> twice = consumerDeclarative.andThen(after);
-        twice.accept("Hello world");
+//        Consumer<String> twice = consumerDeclarative.andThen(after);
+//        twice.accept("Hello world");
+        after.accept("Tinu Bell", 12);
     }
-    public  static java.util.function.Consumer<String> consumerDeclarative = System.out::println;
-    public  static java.util.function.Consumer<String> after = name -> System.out.println(name.length());
+    public  static Consumer<String> consumerDeclarative = System.out::println;
+    public  static BiConsumer<String, Integer> after = (name, age) -> {
+        var result = name.split(" ");
+        System.out.println(result[0].length() +" "+ age);
+
+    };
 }

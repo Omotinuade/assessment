@@ -1,17 +1,22 @@
 package regnos.problemSolving;
 
 public class level2Q1 {
-    public static int binaryConversion(String binary) {
-        int num =0;
-        int j=0;
-        int i = binary.length()-1;
-        while (i >=0 ) {
-            int result = (int)(Math.pow(2, i)* Integer.parseInt(String.valueOf(binary.charAt(j))));
-            num += result;
-            i--;
-            j++;
+    public static void main(String[] args) {
+        System.out.println(binaryConversion(1101));
+    }
+    public static int binaryConversion(int binary) {
+        int count =1;
+        int decimal=0;
+        while(binary > 0){
+            int a= binary % 10;
+            binary= binary/ 10;
+            a = a * count;
+            decimal+= a;
+            count*=2;
         }
 
-        return num;
+
+
+        return decimal;
     }
 }
