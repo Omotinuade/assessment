@@ -1,9 +1,11 @@
 package regnos.problemSolving;
 
 import java.util.*;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Task {
+   
     public static void main(String[] args) {
         String[] arr = {"Ab1396", "Q2RBs", "G381ac","Ab1396","12qWtr"};
         int[] arr2 ={1,2,3,1,4,5,7};
@@ -31,6 +33,8 @@ public class Task {
         System.out.println(Arrays.stream(arr).
                 map(x -> x.chars().filter(Character::isDigit).count()).
                 toList().stream().map(Long::intValue).reduce(0, Integer::sum).intValue());
+
+        System.out.println(Arrays.stream(arr).flatMap(x -> Stream.of(x.split("")).filter(y->Character.isDigit(Integer.parseInt(y)))));
 
         System.out.println(Arrays.stream(arr).map(x -> x.chars().count()).toList().stream().reduce(0L, Long::sum));
         Set<Integer> sets = new HashSet<>();

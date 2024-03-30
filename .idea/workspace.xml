@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c496db08-6b8a-44ac-bb54-c6f561dd5e24" name="Changes" comment="assessment">
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/IntConsumerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/stream/CollectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regnos/chapter17/stream/StreamSampleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/regnos/chapter17/stream/StreamSampleOneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter16/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter16/CollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter16/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter16/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/CarMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/CarMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/anonymousClass/Toyota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Moveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/Toyota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiFunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiPredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BiPredicateSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/BinaryOperatorSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/ConsumerSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/FunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/FunctionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/PredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/PredicateSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/SupplierSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/SupplierSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/UnaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/functionalInterface/consumerSample/UnaryOperatorSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/MergeAndSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/MergeAndSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Question6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regnos/chapter17/stream/CollectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/chapter17/stream/CollectExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regnos/problemSolving/level2Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regnos/problemSolving/level2Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/regnos/problemSolving/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/regnos/problemSolving/TaskTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +68,7 @@
       <recent name="regnos.chapter15.json.serialization" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IntConsumerSample">
     <configuration name="IntConsumerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="regnos.chapter17.functionalInterface.consumerSample.IntConsumerSample" />
       <module name="java_classes" />
@@ -175,10 +149,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntConsumerSample" />
         <item itemvalue="Application.Task" />
         <item itemvalue="JUnit.StreamSampleOneTest.testThatMapReturnsElementOfAListMultiplyingEachElementByTwo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.IntConsumerSample" />
         <item itemvalue="JUnit.TaskTest.task" />
       </list>
     </recent_temporary>
@@ -217,7 +191,13 @@
       <workItem from="1683237622232" duration="2298000" />
       <workItem from="1683310867461" duration="2449000" />
       <workItem from="1683366027258" duration="3990000" />
-      <workItem from="1683572161397" duration="16263000" />
+      <workItem from="1683572161397" duration="16884000" />
+      <workItem from="1684074585775" duration="597000" />
+      <workItem from="1684081114576" duration="4331000" />
+      <workItem from="1684310061532" duration="89000" />
+      <workItem from="1685131013540" duration="36000" />
+      <workItem from="1685137920802" duration="29000" />
+      <workItem from="1688433092992" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="assessment">
       <created>1681479146500</created>
@@ -226,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681479146500</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assessment">
+      <created>1683748435243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683748435243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
